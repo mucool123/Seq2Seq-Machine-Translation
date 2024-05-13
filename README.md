@@ -41,7 +41,6 @@ MarathiTranslationProject/
 ├── translate.py    # Script for translating text using the trained model
 └── requirements.txt    # Project dependencies
 
-```plaintext
 
 
 ## Setup and Installation
@@ -49,7 +48,7 @@ MarathiTranslationProject/
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/MarathiTranslationProject.git
+git clone https://github.com/mucool123/MarathiTranslationProject.git
 cd MarathiTranslationProject
 
 ## Installation
@@ -84,8 +83,5 @@ This project is licensed under the Apache 2.0 License - see the LICENSE file for
 
 ## Contact
 For any queries or discussions, feel free to contact me at gharpuremukul.work@gmail.com
-
-
-
 
 
