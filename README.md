@@ -41,6 +41,8 @@ MarathiTranslationProject/
 ├── translate.py    # Script for translating text using the trained model
 └── requirements.txt    # Project dependencies
 
+```plaintext
+
 
 ## Setup and Installation
 
